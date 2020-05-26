@@ -1,6 +1,9 @@
 W3C Improving Web Advertising Success Criteria
 ==============================================
 
+Editor:
+* James Rosewell (james@51degrees.com)
+
 Abstract
 --------
 
